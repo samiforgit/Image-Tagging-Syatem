@@ -45,7 +45,7 @@ Payloads:
 ```
 payload={'name': 'Town'}
 files=[
-  ('image',('40525eacbb30f48858f6c7bd8d6fc9b3.jpg',open('/C:/Users/LMO4KOR2/Pictures/Home Architecture/40525eacbb30f48858f6c7bd8d6fc9b3.jpg','rb'),'image/jpeg'))
+  ('image',('40525eacbb30f48858f6c7bd8d6fc9b3.jpg',open('40525eacbb30f48858f6c7bd8d6fc9b3.jpg','rb'),'image/jpeg'))
 ]
 
 ```
