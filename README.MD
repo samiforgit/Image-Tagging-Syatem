@@ -83,7 +83,7 @@ Response:
 ##### 4. Search a image by tag, API
 Search a image by tag
 
-`/api/search-image-by-tag/Tia/`
+`/api/search-image-by-tag/<tagname>/`
 
 Payload:
 ```
