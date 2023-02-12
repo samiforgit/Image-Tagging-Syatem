@@ -1,4 +1,4 @@
-# Annalise.ai Task
+# Image Tagging System
 ## Backend - Software Engineering Skills Task - API Building : Image Tagging System
 #### Author : Md Samiul Alim,  Date: 1/8/2023
 
